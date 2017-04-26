@@ -17,6 +17,10 @@ def do_something():
     '''
 
     a = 12**2
-    b = 15
+    b = 15*
     # print(a+b)
     return a+b
+
+def do_something_else():
+    
+    return 'Hello'
