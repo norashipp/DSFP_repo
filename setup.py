@@ -7,5 +7,5 @@ setup(name='my_package',
       description='DSFP session 3, day 1',
       author='Nora Shipp',
       author_email='norashipp@uchicago.edu',
-      packages=['my_package'],
+      packages=['my_package','my_package/tests'],
      )
