@@ -6,7 +6,7 @@
 Welcome to my_package's documentation!
 ======================================
 
-This is a super cool package that does lots of things. It's features include:
+This is a super cool package that does lots of things. Its features include:
 
     * Numerical operations on the numbers 12 and 15.
 
