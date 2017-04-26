@@ -24,7 +24,7 @@ Contents:
    api_docs
 
 
-.. inheritance-diagram:: yourmodule.class_heirarchy
+.. inheritance-diagram:: my_package.class_heirarchy
 
 
 Indices and tables
