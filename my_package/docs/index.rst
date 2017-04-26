@@ -23,6 +23,10 @@ Contents:
    second_doc
    api_docs
 
+
+.. inheritance-diagram:: yourmodule.class_heirarchy
+
+
 Indices and tables
 ==================
 
