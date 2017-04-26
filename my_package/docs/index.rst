@@ -21,6 +21,7 @@ Contents:
    :maxdepth: 2
 
    second_doc
+   api_docs
 
 Indices and tables
 ==================
