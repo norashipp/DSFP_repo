@@ -20,7 +20,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-
+   second_doc
 
 Indices and tables
 ==================
